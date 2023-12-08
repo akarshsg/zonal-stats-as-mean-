@@ -1,2 +1,2 @@
 # zonal-stats-as-mean-
-This code extract mean values from a raster using shape file.
+This code extract mean values with in the bounding regions of a shape file from a raster using. sample raster and shapefile are provided run.
